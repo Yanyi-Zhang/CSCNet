@@ -6,7 +6,7 @@ IEEE Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024 \
 [[arXiv]]
 
 <p align="center">
-<img src="CSCNet.png" width="90%">
+<img src="CSCNet.png" width="100%">
 </p>
 
 ## Abstract
