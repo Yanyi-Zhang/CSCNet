@@ -23,4 +23,6 @@ Attribute and object (A-O) disentanglement is a fundamental and critical problem
         year      = {2024}
     }
 
+Feel free to contact us: yanyi.zhang{at}mail.dlut.edu.cn
+
 [arXiv]: https://arxiv.org/abs/2403.05924
