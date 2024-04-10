@@ -15,14 +15,13 @@ Attribute and object (A-O) disentanglement is a fundamental and critical problem
 ## Citation
 **If you found our work useful for your research, please cite our work**:
     
-    @InProceedings{Yanyi_2024_ICASSP,
-        author    = {Yanyi Zhang, Qi Jia, Xin Fan, Yu Liu, Ran He},
-        title     = {CSCNET: Class-Specified Cascaded Network for Compositional Zero-Shot Learning},
-        booktitle = {IEEE Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-        month     = {April},
-        year      = {2024},
-        pages     = {3705-3709}
-    }
+    @INPROCEEDINGS{Yanyi_2024_ICASSP,
+      author={Zhang, Yanyi and Jia, Qi and Fan, Xin and Liu, Yu and He, Ran},
+      booktitle={Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing}, 
+      title={CSCNet: Class-Specified Cascaded Network for Compositional Zero-Shot Learning}, 
+      year={2024},
+      pages={3705-3709}
+      }
 
 Feel free to contact us: yanyi.zhang{at}mail.dlut.edu.cn
 
