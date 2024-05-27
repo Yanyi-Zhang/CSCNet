@@ -25,4 +25,7 @@ Attribute and object (A-O) disentanglement is a fundamental and critical problem
 
 Feel free to contact us: yanyi.zhang{at}mail.dlut.edu.cn
 
+## Support Ukraine 🇺🇦 and Free Palestine 🇵🇸
+I oppose any form of military invasion and massacre and strongly condemn the heinous actions of Russia and Israel.  The world needs peace.
+
 [arXiv]: https://arxiv.org/abs/2403.05924
